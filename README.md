@@ -1,5 +1,6 @@
 jQuery-menu-aim
 ===============
+https://kipalog.com/posts/Tam-giac-ma-thuat-cua-Amazon
 
 menu-aim is a jQuery plugin for dropdown menus that can differentiate
 between a user trying hover over a dropdown item vs trying to navigate into
